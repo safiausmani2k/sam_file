@@ -1,4 +1,4 @@
-# Sam_File Validation
+# Sam File_Validation
 
 This is the data validation routine to check the extracted data in CSV format. It will try to identify the issue and perform sanity checks on the data. We are generating a few graphs to display trends in the data and to highlight possible issues.
 
