@@ -3,7 +3,7 @@
 This is the data validation routine to check the extracted data in CSV format. It will try to identify the issue and perform sanity checks on the data. We are generating a few graphs to display trends in the data and to highlight possible issues.
 
 # Run Instruction 
-The Code is ingesting a local file from one level above working directory named as 'inputFile'. Data is read into the data frame to generate checks and generating visuals. We are taking advantage of Python™ scripting to generate or retrieve data validate and display the data. 
+The Code is ingesting a local file from one level above working directory named as 'inputFile'. The folder is in zip format and required to be unzipped before running the code. Data is read into the data frame to generate checks and generating visuals. We are taking advantage of Python™ scripting to generate or retrieve data validate and display the data. 
 The code could be run cell by cell or all cells together. Please be aware that no testing is done on data and Script. It is a POC or must be taken as WIP.
 # Report
  The reports are generating by using the characteristics analyzed and investigated during the investigation phase.
